@@ -1,0 +1,22 @@
+/* Body
+=======================*/
+body {margin-top:50px;}
+
+/* Header and Navigation
+=======================*/
+
+
+/* Content
+=======================*/
+
+.content {
+  padding: 30px;
+}
+
+.content p {
+  padding-top: 10px;
+}
+
+h1 {
+  color: blue;
+}
