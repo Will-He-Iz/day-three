@@ -1,22 +1,14 @@
 /* Body
-=======================*/
-body {margin-top:50px;}
+============================*/
 
-/* Header and Navigation
-=======================*/
-
-
-/* Content
-=======================*/
-
-.content {
-  padding: 30px;
+body {
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
-.content p {
-  padding-top: 10px;
-}
-
+/* Typeography
+============================*/
 h3 {
-  color: #39AEC6;
+  color: #45828E;
 }
